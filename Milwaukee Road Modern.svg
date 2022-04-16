@@ -34,15 +34,16 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="1.1739077"
-     inkscape:cx="235.5381"
-     inkscape:cy="303.68656"
+     inkscape:zoom="0.8300781"
+     inkscape:cx="233.1106"
+     inkscape:cy="299.36942"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     inkscape:snap-object-midpoints="true" />
   <defs
      id="defs2" />
   <g
@@ -50,6 +51,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-4.3636626,-102.15339)">
+    <rect
+       style="fill:#7a7a7a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:20.1816;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect1085"
+       width="504.29858"
+       height="345.42749"
+       x="5.2155185"
+       y="101.30154" />
     <path
        style="fill:#f00000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 17.77828,294.17358 C 289.81094,470.05898 346.2059,513.06792 496.01522,253.59059 222.52576,74.510123 163.36071,42.017418 17.77828,294.17358 Z"
@@ -87,7 +95,7 @@
        d="m 454.19671,229.46488 -44.84575,2e-5 v 38.09882 h 78.59687 l 8.06739,-13.97313 z"
        id="path43925" />
     <path
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 17.778278,294.17358 C 289.81094,470.05898 346.2059,513.06792 496.01522,253.59059 222.52576,74.510124 163.36071,42.017419 17.778278,294.17358 Z"
        id="path857"
        sodipodi:nodetypes="ccc" />
