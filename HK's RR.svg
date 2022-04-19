@@ -9,8 +9,12 @@
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="HK's RR.svg"
+   inkscape:export-filename="C:\Users\Eden\Desktop\HK's RR.png"
+   inkscape:export-xdpi="738.46088"
+   inkscape:export-ydpi="738.46088"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -30,7 +34,7 @@
      inkscape:snap-object-midpoints="false"
      inkscape:snap-center="false"
      inkscape:snap-text-baseline="false"
-     inkscape:snap-bbox="false"
+     inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
@@ -41,10 +45,10 @@
      fit-margin-bottom="0"
      inkscape:snap-others="true"
      inkscape:object-nodes="true"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      inkscape:zoom="1.0544884"
-     inkscape:cx="307.73217"
-     inkscape:cy="196.77789"
+     inkscape:cx="302.0422"
+     inkscape:cy="267.90243"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -131,8 +135,7 @@
     <path
        id="path2064"
        style="fill-rule:evenodd;stroke-width:20;stroke-linejoin:round;paint-order:markers stroke fill"
-       d="M 266.24023,90.076172 C 168.94736,90.07582 90.07582,168.94736 90.076172,266.24023 90.075813,363.5331 168.94736,442.40465 266.24023,442.4043 363.53311,442.40466 442.40466,363.53311 442.4043,266.24023 442.40465,168.94736 363.5331,90.075813 266.24023,90.076172 Z m 0,16.476558 c 88.19289,2e-4 159.6873,71.49461 159.6875,159.6875 -2e-4,88.19289 -71.49461,159.6873 -159.6875,159.6875 -88.19289,-2e-4 -159.6873,-71.49461 -159.6875,-159.6875 2e-4,-88.19289 71.49461,-159.6873 159.6875,-159.6875 z"
-       transform="translate(-22.889404,3.6141357)"
+       d="M 243.35083,445.47729 C 146.05796,445.47764 67.186416,366.6061 67.186768,269.31323 67.186409,172.02036 146.05796,93.14881 243.35083,93.14916 c 97.29288,-3.6e-4 176.16443,78.87119 176.16407,176.16407 3.5e-4,97.29287 -78.8712,176.16442 -176.16407,176.16406 z m 0,-16.47656 c 88.19289,-2e-4 159.6873,-71.49461 159.6875,-159.6875 -2e-4,-88.19289 -71.49461,-159.6873 -159.6875,-159.6875 -88.19289,2e-4 -159.687304,71.49461 -159.687504,159.6875 2e-4,88.19289 71.494614,159.6873 159.687504,159.6875 z"
        sodipodi:nodetypes="cccccccccc"
        inkscape:export-filename="C:\Users\Eden\Desktop\HK's RR.png"
        inkscape:export-xdpi="738.46088"
@@ -168,5 +171,40 @@
        inkscape:export-filename="C:\Users\Eden\Desktop\HK's RR.png"
        inkscape:export-xdpi="738.46088"
        inkscape:export-ydpi="738.46088" />
+    <text
+       xml:space="preserve"
+       style="font-size:64px;line-height:1.25;font-family:RFP;-inkscape-font-specification:RFP;letter-spacing:-2.6px"
+       id="text3239"
+       x="243.35083"
+       y="445.47729" />
+    <text
+       xml:space="preserve"
+       style="font-size:64px;line-height:1.25;font-family:RFP;-inkscape-font-specification:RFP"
+       x="155.48184"
+       y="612.49042"
+       id="text61995"><tspan
+         sodipodi:role="line"
+         id="tspan61993"
+         x="155.48184"
+         y="612.49042" /></text>
+    <g
+       id="g75904"
+       style="stroke:none">
+      <circle
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="path60303"
+         cx="-93.96579"
+         cy="-350.59903"
+         r="191.97354"
+         transform="rotate(152.90262)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:1.25;font-family:'Bauhaus 93';-inkscape-font-specification:'Bauhaus 93, ';stroke:none"
+         id="text64507"><textPath
+           xlink:href="#path60303"
+           id="textPath72611"><tspan
+             id="tspan64505"
+             style="stroke:none">Great Planes of the Dakotas</tspan></textPath></text>
+    </g>
   </g>
 </svg>
